@@ -2,7 +2,7 @@
 	"versioninfo": {
 		"name":"Mobile List",
 		"date":"2026-05-01",
-		"version": "2"
+		"version": "3"
 	},
 	"avatars": [
 	{
@@ -18,6 +18,13 @@
 		"author":"Drischa",
 		"description":"Public version of Vitabug V2․ Please consider supporting me and getting the files on Ko-Fiǃ",
 		"tags":["rank_medium","robot"]
+	},
+	{
+		"blueprintid":"avtr_f30e9a26-dd0d-483c-8e14-7d9682a8c97d",
+		"name":"Grinlin Laserdome",
+		"author":"Swingly",
+		"description":"Hamburger",
+		"tags":["rank_poor","furry"]
 	}
 	]
 }
