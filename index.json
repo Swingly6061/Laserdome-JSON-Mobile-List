@@ -1,0 +1,23 @@
+{
+	"versioninfo": {
+		"name":"Mobile List",
+		"date":"2026-05-01",
+		"version": "2"
+	},
+	"avatars": [
+	{
+		"blueprintid":"avtr_14301b3f-db2d-444e-8f4b-8ad5050813ba",
+		"name":"Rikkorchi Laserdome",
+		"author":"Swingly",
+		"description":"",
+		"tags":["rank_medium","furry"]
+	},
+	{
+		"blueprintid":"avtr_316f6202-2172-445c-982c-e54f53ea8c10",
+		"name":"VitaBugV2 DEMO",
+		"author":"Drischa",
+		"description":"Public version of Vitabug V2․ Please consider supporting me and getting the files on Ko-Fiǃ",
+		"tags":["rank_medium","robot"]
+	}
+	]
+}
