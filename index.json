@@ -25,6 +25,13 @@
 		"author":"Swingly",
 		"description":"Hamburger",
 		"tags":["rank_poor","furry"]
+	},
+	{
+		"blueprintid":"avtr_9069f3d4-41f5-462f-b4a7-578192611f96",
+		"name":"Example Laserdome",
+		"author":"Swingly",
+		"description":"",
+		"tags":["rank_medium","robot"]
 	}
 	]
 }
