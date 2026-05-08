@@ -1,8 +1,8 @@
 {
 	"versioninfo": {
 		"name":"Mobile List",
-		"date":"2026-05-02",
-		"version": "4"
+		"date":"2026-05-08",
+		"version": "5"
 	},
 	"avatars": [
 	{
@@ -32,6 +32,13 @@
 		"author":"Swingly",
 		"description":"",
 		"tags":["rank_medium","robot"]
+	},
+	{
+		"blueprintid":"avtr_12744635-6a85-4fb2-9d31-0a1ebf7ce3ee",
+		"name":"Da'vali Laserdome",
+		"author":"Swingly",
+		"description":"",
+		"tags":["rank_good","furry"]
 	}
 	]
 }
