@@ -2,7 +2,7 @@
 	"versioninfo": {
 		"name":"Mobile List",
 		"date":"2026-05-08",
-		"version": "5"
+		"version": "6"
 	},
 	"avatars": [
 	{
@@ -39,6 +39,13 @@
 		"author":"Swingly",
 		"description":"",
 		"tags":["rank_good","furry"]
+	},
+	{
+		"blueprintid":"avtr_52531b8b-2530-4566-b0ad-58497f4be8b8",
+		"name":"Wickerbeast Laserdome",
+		"author":"Swingly",
+		"description":"",
+		"tags":["rank_medium","furry"]
 	}
 	]
 }
