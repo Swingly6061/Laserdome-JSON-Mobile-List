@@ -1,8 +1,8 @@
 {
 	"versioninfo": {
 		"name":"Mobile List",
-		"date":"2026-05-08",
-		"version": "6"
+		"date":"2026-05-18",
+		"version": "7"
 	},
 	"avatars": [
 	{
@@ -46,6 +46,13 @@
 		"author":"Swingly",
 		"description":"",
 		"tags":["rank_medium","furry"]
+	},
+	{
+		"blueprintid":"avtr_03b0ee59-ad3f-442c-adcc-ad6b4e3b3edf",
+		"name":"Laserdome Venice Man",
+		"author":"Hexson",
+		"description":"",
+		"tags":["rank_poor","human"]
 	}
 	]
 }
