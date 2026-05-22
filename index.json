@@ -1,8 +1,8 @@
 {
 	"versioninfo": {
 		"name":"Mobile List",
-		"date":"2026-05-18",
-		"version": "7"
+		"date":"2026-05-22",
+		"version": "8"
 	},
 	"avatars": [
 	{
@@ -53,6 +53,13 @@
 		"author":"Hexson",
 		"description":"",
 		"tags":["rank_poor","human"]
+	},
+	{
+		"blueprintid":"avtr_772ef805-8f42-4ff0-a3f3-9d4ad38fbd62",
+		"name":"Teh'vali Laserdome",
+		"author":"Swingly",
+		"description":"",
+		"tags":["rank_medium","furry"]
 	}
 	]
 }
