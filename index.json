@@ -2,7 +2,7 @@
 	"versioninfo": {
 		"name":"Mobile List",
 		"date":"2026-05-24",
-		"version": "10"
+		"version": "11"
 	},
 	"avatars": [
 	{
@@ -24,7 +24,7 @@
 		"name":"Grinlin Laserdome",
 		"author":"Swingly",
 		"description":"Hamburger",
-		"tags":["rank_poor","furry"]
+		"tags":["rank_medium","furry"]
 	},
 	{
 		"blueprintid":"avtr_9069f3d4-41f5-462f-b4a7-578192611f96",
