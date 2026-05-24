@@ -2,7 +2,7 @@
 	"versioninfo": {
 		"name":"Mobile List",
 		"date":"2026-05-24",
-		"version": "11"
+		"version": "12"
 	},
 	"avatars": [
 	{
@@ -73,6 +73,13 @@
 		"name":"Firefighter Laserdome",
 		"author":"Swingly",
 		"description":"Hexson ＋ Swingly's firefighter avatar‚ no particle effects on this one․",
+		"tags":["rank_medium","human"]
+	},
+	{
+		"blueprintid":"avtr_d4997792-5f8b-4b9a-9023-aedffd0883d6",
+		"name":"ReadyPlayerMe Laserdome",
+		"author":"Swingly",
+		"description":"",
 		"tags":["rank_medium","human"]
 	}
 	]
