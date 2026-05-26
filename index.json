@@ -1,8 +1,8 @@
 {
 	"versioninfo": {
 		"name":"Mobile List",
-		"date":"2026-05-24",
-		"version": "12"
+		"date":"2026-05-26",
+		"version": "13"
 	},
 	"avatars": [
 	{
@@ -81,6 +81,13 @@
 		"author":"Swingly",
 		"description":"",
 		"tags":["rank_medium","human"]
+	},
+	{
+		"blueprintid":"avtr_3f74d1ca-00ff-4a16-8c3a-eee2ba4eac69",
+		"name":"Nicoreda Protogen Laserdome",
+		"author":"Swingly",
+		"description":"",
+		"tags":["rank_medium","furry"]
 	}
 	]
 }
